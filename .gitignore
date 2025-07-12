@@ -1,0 +1,14 @@
+# Ignore Windows build artifacts
+*.dll
+*.lib
+*.exp
+*.pdb
+*.obj
+*.iobj
+*.ipdb
+*.log
+
+# Ignore build folders
+x64/
+.vs/
+
